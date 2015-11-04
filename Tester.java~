@@ -1,0 +1,16 @@
+/*
+ * Project: Tester.java
+ * Description: Tests our super and subclasses
+ * Name: Juyoung Lee
+ * Date: Nov 4, 2015
+ */
+
+public class Tester {
+  
+  public static void main( String[] args ) {
+    
+      
+     
+  } // END main method
+  
+} // END tester class
