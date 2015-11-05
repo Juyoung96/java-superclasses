@@ -1,0 +1,5 @@
+// Interface Animal. java
+
+public interface Animal {
+  
+} // END interface Animal
